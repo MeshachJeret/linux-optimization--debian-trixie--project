@@ -1,4 +1,4 @@
-# Linux-optimization--debian-trixie--project
+# Linux Optimization - Debian Trixie Project
 Reviving an old PC using Linux 
 
 ## Overview 
@@ -8,7 +8,7 @@ A hands-on project to revive an old PC using Linux and system optimization techn
 
 ---
 
-## Problems !
+## Problems 
 My PC was experiencing:
 - Frequent lag on Windows
 - Slow performance during basic tasks
@@ -17,17 +17,17 @@ My PC was experiencing:
 
 ---
 
-## Solution =
+## Solution 
 
 ### 1. Hardware Improvement
 - Replaced stock Intel CPU fan with a better cooling solution
-- Result: Improved temperature stability, less noice
+- **Result:** Improved temperature stability, less noise
 
 ### 2. Operating System Migration
 - Switched from Windows to Linux (Debian 13: Trixie)
 
 ### 3. Installation Process
-- Download Linux (Debian 13: Trixie) ISO
+- Downloaded Linux (Debian 13: Trixie) ISO
 - Created a bootable pendrive using Rufus
 - Installed Linux (Debian 13: Trixie) on the system
 
@@ -37,10 +37,10 @@ Tested multiple environments:
 - Xfce 
 - LXQt
 - Mate
-- Combined desktop (LXQt and Xfce) - Selected
+- Combined desktop (LXQt + Xfce) - **Selected**
   
 
- **Final Choice: Combined Desktop (LXQt and Xfce)**
+ **Final Choice: Combined Desktop (LXQt + Xfce)**
  - Lightweight
  - Fast
  - Suitable for low-spec PC
@@ -69,8 +69,8 @@ Tested multiple environments:
 
 ## Tools & Technologies
 - Linux (Debian 13: Trixie)
-- Combined desktop (Xfce and LXQt)
-- Rufus (Bootable pendrive)
+- Combined desktop (Xfce + LXQt)
+- Rufus (Bootable pendrive craetion)
 - Basic system monitoring tools
 
 
@@ -85,16 +85,16 @@ Tested multiple environments:
 ![Install New fan](change fan.jpeg)
 
 ### Debian 13: Trixie Installation
-![Debian 13](debian 1.jpeg)
-![Debian 13](debian 2.jpeg)
-![Debian 13](debin 3.jpg)
-![Debian 13](debian 4.jpeg)
+![Debian 13 Installation 1](debian 1.jpeg)
+![Debian 13 Installation 2](debian 2.jpeg)
+![Debian 13 Installation 3](debin 3.jpg)
+![Debian 13 Installation 4](debian 4.jpeg)
 
 
 ---
 
 ## Project Link
-https://github.com/MeshachJeret/linux-optimization--debian-trixie--project/blob/main/Linux%20(Debian)
+[View the full repository](https://github.com/MeshachJeret/linux-optimization--debian-trixie--project)
 
 
 ---
@@ -108,6 +108,6 @@ Thanks to online resources such as Youtube tutorials and AI tools for guidance t
 ## Future Improvements
 - Try other lightweight distros (Lubuntu)
 - Set up a home server
-- Explore more networking
+- Explore more networking and system optimization techniques
 
 
