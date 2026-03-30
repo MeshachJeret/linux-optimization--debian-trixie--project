@@ -1,0 +1,103 @@
+# Linux-optimization--debian-trixie--project
+Reviving an old PC using Linux 
+
+## Overview 
+This project documents my journey of improving the performance of my old PC by switching from Windows to Linux (Debian 13: Trixie) and optimizing both hardware and software.
+A hands-on project to revive an old PC using Linux and system optimization techniques.
+
+
+---
+
+## Problems !
+My PC was experiencing:
+- Frequent lag on Windows
+- Slow performance during basic tasks
+- High temperature affecting stability
+
+
+---
+
+## Solution =
+
+### 1. Hardware Improvement
+- Replaced stock Intel CPU fan with a better cooling solution
+- Result: Improved temperature stability, less noice
+
+### 2. Operating System Migration
+- Switched from Windows to Linux (Debian 13: Trixie)
+
+### 3. Installation Process
+- Download Linux (Debian 13: Trixie) ISO
+- Created a bootable pendrive using Rufus
+- Installed Linux (Debian 13: Trixie) on the system
+
+### 4. Desktop Environment Testing
+Tested multiple environments:
+- KDE PLasma
+- Xfce 
+- LXQt
+- Mate
+- Combined desktop (LXQt and Xfce) - Selected
+  
+
+ **Final Choice: Combined Desktop (LXQt and Xfce)**
+ - Lightweight
+ - Fast
+ - Suitable for low-spec PC
+
+
+---
+
+## Result:
+- No more lag during daily usage
+- Faster boot time
+- Lower CPU and RAM usage
+- Improved overall system responsiveness
+
+
+---
+
+## What I Learned?
+- Importance of system optimization over hardware upgrade
+- Understanding CPU, RAM, and temperature impact
+- Linux system management basics
+- Bootable pendrive creation and OS installation
+- Comparing desktop environments for performance
+
+
+---
+
+## Tools & Technologies
+- Linux (Debian 13: Trixie)
+- Combined desktop (Xfce and LXQt)
+- Rufus (Bootable pendrive)
+- Basic system monitoring tools
+
+
+---
+
+## Screenshot
+
+
+---
+
+## Project Link
+
+
+
+
+
+---
+
+## Acknowledgment
+Thanks to online resources such as Youtube tutorials and AI tools for guidance throughout this project.
+
+
+---
+
+## Future Improvements
+- Try other lightweight distros (Lubuntu)
+- Set up a home server
+- Explore more networking
+
+
