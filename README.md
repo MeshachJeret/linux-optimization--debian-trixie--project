@@ -280,3 +280,17 @@ However, it eventually became an opportunity for me to explore Linux, understand
 The experience also encouraged me to continue learning about Linux system administration, networking, and IT infrastructure.
 
 For me, this project is not just about installing Debian Linux. It represents the beginning of my journey into working with Linux systems and understanding how computers operate beyond everyday usage.
+
+## Screenshot
+
+### Hardware 
+![CPU fan condition](old pc.jpeg)
+
+### New Fan
+![Install New fan](change fan.jpeg)
+
+### Debian 13: Trixie Installation
+![Debian 13 Installation 1](debian 1.jpeg)
+![Debian 13 Installation 2](debian 2.jpeg)
+![Debian 13 Installation 3](debin 3.jpg)
+![Debian 13 Installation 4](debian 4.jpeg)
